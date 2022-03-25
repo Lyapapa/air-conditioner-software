@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/airflowdown.png</file>
+        <file>icons/airflowmid.png</file>
+        <file>icons/airflowup.png</file>
+        <file>icons/down.png</file>
+        <file>icons/down1.png</file>
+        <file>icons/faq.png</file>
+        <file>icons/full_open.png</file>
+        <file>icons/half_open.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/temp_dial_bg.png</file>
+        <file>icons/up.png</file>
+        <file>icons/up1.png</file>
+        <file>icons/airflowmid1.png</file>
+        <file>icons/onOff (2).png</file>
+        <file>icons/faq1.png</file>
+        <file>icons/airflowdown1.png</file>
+        <file>icons/airflowup1.png</file>
+        <file>icons/airglowmid2.png</file>
+        <file>icons/airflowup2.png</file>
+        <file>icons/airflowdown2.png</file>
+        <file>icons/airflow3.png</file>
+        <file>icons/airflowup3.png</file>
+        <file>icons/airflowup4.png</file>
+        <file>icons/airflow5.png</file>
+    </qresource>
+</RCC>
